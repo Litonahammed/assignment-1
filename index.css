@@ -1,0 +1,59 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.orange-color {
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    margin: 10px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+
+.half-width img {
+    width: 80%;
+    margin-bottom: 100px;
+}
+
+.top-banner {
+    background-image: url(food-network/images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+.second half-width {
+    display: flex;
+    width: 50%;
+    padding-right: 5px;
+    margin: 10px;
+}
+
+.second .half-width img {
+    width: 100%;
+    margin: 20px;
+}
+
+.middle-banner {
+    background-image: url(food-network/images/shapes/7.png);
+
+}
